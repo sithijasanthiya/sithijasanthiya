@@ -3,6 +3,7 @@
 ## About Me:
 🔭 I’m currently an undergraduate in software engineering<br>👯 I’m looking to collaborate on web and mobile application development<br>🌱 I’m currently learning c#, .Net and React native<br>💬 Ask me anything related to web / mobile application development<br>
 
+[![](https://visitcount.itsvg.in/api?id=sithijasanthiya&icon=5&color=0)](https://visitcount.itsvg.in)
 
 ## Connect with me:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/sithija.santhiya) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sithija.santhiya) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sithija-santhiya) 
@@ -17,6 +18,6 @@
 ![](https://github-contributor-stats.vercel.app/api?username=sithijasanthiya&limit=5&theme=gruvbox&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=sithijasanthiya&icon=5&color=0)](https://visitcount.itsvg.in)
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
