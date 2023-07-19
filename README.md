@@ -2,7 +2,7 @@
 🔭 I’m currently an undergraduate in software engineering<br>👯 I’m looking to collaborate on web and mobile application development<br>🌱 I’m currently learning c#, .Net and React native<br>💬 Ask me anything related to web / mobile application development<br>
 
 
-## Socials:
+## Connect with me:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/sithija.santhiya) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sithija.santhiya) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sithija-santhiya) 
 
 # Tech Stack:
@@ -10,7 +10,6 @@
 # GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=sithijasanthiya&theme=calm&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=sithijasanthiya&theme=calm&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=sithijasanthiya&theme=calm&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 ### Top Contributed Repo List
 ![](https://github-contributor-stats.vercel.app/api?username=sithijasanthiya&limit=5&theme=gruvbox&combine_all_yearly_contributions=true)
