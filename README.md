@@ -1,7 +1,7 @@
 <img alt="coding gif" src="https://github.com/sithijasanthiya/sithijasanthiya/blob/5065bb24414a999ff6a0de086e20d7efa6ddbe66/Hello%20there%20%2C%20I'm%20%20Sithija%20%20(1).gif">
 
 ## About Me:
-🔭 I’m currently an undergraduate in software engineering<br>👯 I’m looking to collaborate on web and mobile application development<br>🌱 I’m currently learning c#, .Net and React native<br>💬 Ask me anything related to web / mobile application development<br>
+🔭 I’m currently an undergraduate in software engineering<br>👯 I’m looking to collaborate on web and mobile application development<br>🌱 I’m currently learning c#, .Net and Flutter<br>💬 Ask me anything related to web / mobile application development<br>
 
 
 ## Connect with me:
