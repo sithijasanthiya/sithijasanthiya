@@ -1,7 +1,7 @@
 <img alt="coding gif" src="https://github.com/sithijasanthiya/sithijasanthiya/blob/5065bb24414a999ff6a0de086e20d7efa6ddbe66/Hello%20there%20%2C%20I'm%20%20Sithija%20%20(1).gif">
 
 ## About Me:
-🔭 Undergraduate in software engineering<br>👯  looking to collaborate on projects<br>🌱 Currently learning React Native<br>
+🔭 Undergraduate in software engineering<br>👯  Looking to collaborate on projects<br>🌱 Currently learning React Native<br>
 
 
 ## Connect with me:
